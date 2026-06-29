@@ -14,7 +14,7 @@
 
 <br/>
 
-![App Preview](quantium-soul-foods/preview.png)
+![App Preview](quantium-soul-foods/quantium-soul-foods/preview.png)
 
 </div>
 
